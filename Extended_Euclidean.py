@@ -1,4 +1,3 @@
-from pyrsistent import b
 
 
 def recursive_extended_euclidean(a, b):
